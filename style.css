@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+  color: #2947a9;
+}
+a {
+  font-size: 16px;
+  color: #2947a9;
+}
+
+.footer-txt-heading {
+  font-weight: bold;
+}
+.footer-txt-text {
+  font-size: 14px;
+  color: black;
+}
+#fotter-txt {
+  color: white;
+  font-size: 12px;
+}
